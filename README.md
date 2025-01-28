@@ -6,3 +6,4 @@ Just general info
 
 - on day 1 we did setup
 - day 2 we did statistics
+bsdksjs;sdkf;lskf;
